@@ -48,7 +48,7 @@ Analyze the data.
 
 ## Technologies
 
-This project is written in Python with the following packages:
+This project is written in Python within the Jupyterlab environment with the following packages:
 
 * Numpy
 * Pandas
